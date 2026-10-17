@@ -1,0 +1,6 @@
+{
+  "name": "Servelink - Bhopal Hyperlocal Tradesmen & Technicians",
+  "description": "On-demand hyperlocal network to book campus-vetted tradesmen and technicians across Bhopal within 15 minutes with multimodal AI triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
